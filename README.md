@@ -33,3 +33,8 @@ For the *Advanced SvelteKit* tutorial, I suggest at least going through the *hoo
 
 - [Advanced Svelte](https://learn.svelte.dev/tutorial/tweens)
 - [Advanced SvelteKit](https://learn.svelte.dev/tutorial/handle)
+
+### Useful resources
+
+- [Svelte documentation](https://svelte.dev/docs/introduction)
+- [SvelteKit documentation](https://kit.svelte.dev/docs/introduction)
