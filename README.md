@@ -1,6 +1,6 @@
-# SvelteKit 101
+# Svelte/Kit 101
 
-A short introduction to the SvelteKit land.
+A short introduction to the wonderful Svelte & SvelteKit land.
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ The tutorials are divided into basic and advanced concepts for both Svelte and S
 
 Generally, these are the topics I would recommend for most. The basic tutorials go through the fundamentals of the framework and can provide some "a-ha" moments even for those who might already have some experience with Svelte.
 
-I would recommend at least skimming through the *Basic Svelte* tutorial before moving on to the *Basic SvelteKit* tutorial.
+I recommend at least skimming through the *Basic Svelte* tutorial before moving on to the *Basic SvelteKit* tutorial.
 
 - [Basic Svelte](https://learn.svelte.dev/tutorial/welcome-to-svelte)
 - [Basic SvelteKit](https://learn.svelte.dev/tutorial/introducing-sveltekit)
@@ -29,7 +29,7 @@ If you're already a *Svelte connoisseur*, the advanced tutorials might be more s
 
 The *Advanced Svelte* tutorial has a lot of information about more specialised Svelte features and **animations** and **transitions** if those are something of interest. 
 
-For the *Advanced SvelteKit* tutorial, I suggest at least going through the *hooks* section.
+For the *Advanced SvelteKit* tutorial, I suggest at least going through the **hooks** section.
 
 - [Advanced Svelte](https://learn.svelte.dev/tutorial/tweens)
 - [Advanced SvelteKit](https://learn.svelte.dev/tutorial/handle)
