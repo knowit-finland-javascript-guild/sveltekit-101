@@ -31,7 +31,7 @@ I recommend at least skimming through the *Basic Svelte* tutorial before moving 
   - Routing
   - Loading data
   - Forms
-  - Stores
+  - Errors and redirects
 
 ### Advanced concepts
 
